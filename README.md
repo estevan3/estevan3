@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Estevan
 
-- 🌱 Atualmente estou estudando Django
 - 💬 Sempre gostei de computação software e hardware, atualmente estou focado na parte software e a se tornar o melhor programador que eu posso ser.
 <!--
 Here are some ideas to get you started:
